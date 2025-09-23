@@ -12,6 +12,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> ENHANCEMENT_STONE = ITEMS.register("enhancement_stone", () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> ADV_ENHANCEMENT_STONE = ITEMS.register("adv_enhancement_stone", () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
