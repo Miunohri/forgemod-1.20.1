@@ -1,4 +1,10 @@
 {
-  "item.enhancementmod.enhancement_stone":"Enhancement Stone",
-  "item.enhancementmod.adv_enhancement_stone": "Advanced Enhancement Stone"
+  "item.enhancementmod.enhancement_stone": "Enhancement Stone",
+  "item.enhancementmod.adv_enhancement_stone": "Advanced Enhancement Stone",
+  "item.enhancementmod.enhancement_smithing_template": "Enhancement Smithing Template",
+  "item.enhancementmod.cloth": "Cloth",
+  "item.enhancementmod.cloth_helmet": "Cloth Helmet",
+  "item.enhancementmod.cloth_tunic": "Cloth Tunic",
+  "item.enhancementmod.cloth_leggings": "Cloth Leggings",
+  "item.enhancementmod.cloth_boots": "Cloth Boots"
 }

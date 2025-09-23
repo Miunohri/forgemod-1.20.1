@@ -49,6 +49,12 @@ public class EnhancementMod
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.ADV_ENHANCEMENT_STONE);
         }
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
+            event.accept(ModItems.ENHANCEMENT_SMITHING_TEMPLATE);
+        }
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.CLOTH);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
