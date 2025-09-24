@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "enhancementmod:item/cloth_tunic"
+    "layer0": "enhancementmod:item/cloth_helmet"
   }
 }
