@@ -55,6 +55,18 @@ public class EnhancementMod
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.CLOTH);
         }
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
+            event.accept(ModItems.CLOTH_BOOTS);
+        }
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
+            event.accept(ModItems.CLOTH_HELMET);
+        }
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
+            event.accept(ModItems.CLOTH_TUNIC);
+        }
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
+            event.accept(ModItems.CLOTH_LEGGINGS);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
