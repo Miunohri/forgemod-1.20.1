@@ -1,0 +1,31 @@
+{
+  "entries": [
+    "enhancementmod:enhancement_stone_from_creeper",
+    "enhancementmod:enhancement_stone_from_enderman",
+    "enhancementmod:enhancement_stone_from_spider",
+    "enhancementmod:enhancement_stone_from_witch",
+    "enhancementmod:enhancement_stone_from_husk",
+    "enhancementmod:enhancement_stone_from_zombie",
+    "enhancementmod:enhancement_stone_from_zombie_villager",
+    "enhancementmod:enhancement_stone_from_skeleton",
+    "enhancementmod:enhancement_stone_from_phantom",
+    "enhancementmod:enhancement_stone_from_vindicator",
+    "enhancementmod:enhancement_stone_from_illusioner",
+    "enhancementmod:enhancement_stone_from_ghast",
+    "enhancementmod:enhancement_stone_from_drowned",
+    "enhancementmod:enhancement_stone_from_evoker",
+    "enhancementmod:enhancement_stone_from_cave_spider",
+    "enhancementmod:enhancement_stone_from_giant",
+    "enhancementmod:enhancement_stone_from_blaze",
+    "enhancementmod:enhancement_stone_from_elder_guardian",
+    "enhancementmod:enhancement_stone_from_guardian",
+    "enhancementmod:enhancement_stone_from_piglin",
+    "enhancementmod:enhancement_stone_from_piglin_brute",
+    "enhancementmod:enhancement_stone_from_pillager",
+    "enhancementmod:enhancement_stone_from_ravager",
+    "enhancementmod:enhancement_stone_from_shulker",
+    "enhancementmod:enhancement_stone_from_wither_skeleton",
+    "enhancementmod:enhancement_stone_from_wither"
+  ],
+  "replace": false
+}
